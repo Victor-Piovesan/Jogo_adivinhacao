@@ -1,4 +1,4 @@
-# Jogo_adivinhacao# Jogo da Adivinhação 🎯
+# Jogo_adivinhacao Jogo da Adivinhação 🎯
 
 Um jogo simples em Python onde você tenta descobrir um número secreto. Tem níveis de dificuldade, sistema de pontos e um ranking pra ver quem manda melhor.
 

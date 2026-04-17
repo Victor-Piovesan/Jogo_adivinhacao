@@ -76,7 +76,7 @@ Estrutura 🧠
  - Jogo: classe base
  - JogoAdivinhacao: lógica principal
  - ranking: guarda os jogadores
- - main(): roda o jogoz
+ - main(): roda o jogo
 
 ---
 

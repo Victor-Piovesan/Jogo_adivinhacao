@@ -36,7 +36,7 @@ Como jogar 🎮
  - Use as dicas pra chegar lá
  - Veja sua pontuação no ranking
 
-![inicio_jogo](Imagens/dificuldades.PNG)
+![inicio_jogo](Imagens/dificuldades.png)
 
 ---
 

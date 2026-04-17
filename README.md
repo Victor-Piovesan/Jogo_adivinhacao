@@ -69,8 +69,8 @@ Ranking:
    - Selecione **Abrir no terminal** (ou PowerShell)
 
 4. Execute o jogo  
-```bash
-python nome_do_arquivo.py
+
+adivinhacao.py
 
 Estrutura 🧠
  - Jogo: classe base

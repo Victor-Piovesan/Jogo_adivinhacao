@@ -36,7 +36,7 @@ Como jogar 🎮
  - Use as dicas pra chegar lá
  - Veja sua pontuação no ranking
 
-![inicio_jogo](imagens/dificuldades.png)
+![inicio_jogo](Imagens/dificuldades.PNG)
 
 ---
 
@@ -45,7 +45,7 @@ Pontuação 📊
  - Cada erro tira 1 ponto
  - Se perder, zera
 
-![pontuacao](imagens/pontuacao.PNG)
+![pontuacao](Imagens/pontuacao.PNG)
 
 Ranking:
 
